@@ -1,0 +1,16 @@
+#1st assignment question:
+mydict={
+         "Q":"Radius of the circle : 2",
+         "A":"The area of the circle with radius 2 is : 12.57"
+}
+print(mydict.get("Q"))
+print(mydict.get("A"))
+
+
+#2nd assignment question:
+mydict={
+         "q":"input file name: 'abc.py'",
+         "v":"the extension of the file is: 'python'"
+}
+print(mydict.get("q"))
+print(mydict.get("v"))
